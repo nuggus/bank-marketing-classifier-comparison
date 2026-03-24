@@ -1,7 +1,7 @@
 # Practical Application III: Comparing Classifiers
 
 **Notebook**: [bank-marketing-classifier-comparision.ipynb](bank-marketing-classifier-comparision.ipynb)
-**Author**: Viswanath Nuggu | **Date**: March 2026
+**Author**: Viswanath Nuggu 
 **Dataset**: [UCI Bank Marketing Dataset](https://archive.ics.uci.edu/ml/datasets/bank+marketing) — 41,188 records, 20 features
 
 ---
