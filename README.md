@@ -1,6 +1,6 @@
 # Practical Application III: Comparing Classifiers
 
-**Notebook**: [comparing_classifier.ipynb](comparing_classifier.ipynb)
+**Notebook**: [bank-marketing-classifier-comparision.ipynb](bank-marketing-classifier-comparision.ipynb)
 **Author**: Viswanath Nuggu | **Date**: March 2026
 **Dataset**: [UCI Bank Marketing Dataset](https://archive.ics.uci.edu/ml/datasets/bank+marketing) — 41,188 records, 20 features
 
@@ -66,7 +66,7 @@ All four classifiers were evaluated with default settings, then improved via Gri
 ```
 comparing classifiers/
 ├── README.md                          ← This file
-├── comparing_classifier.ipynb         ← Main analysis notebook
+├── bank-marketing-classifier-comparision.ipynb         ← Main analysis notebook
 ├── data/
 │   ├── bank-additional-full.csv       ← Full dataset (41,188 rows)
 │   ├── bank-additional.csv            ← Sample dataset
